@@ -6,6 +6,24 @@
 
 Welcome to the Cancer Health Informatics project, where we harness the power of web mining and natural language processing (NLP) to delve into cancer-related topics sourced from the National Cancer Institute website. This repository contains a collection of Python code snippets that demonstrate various analyses and visualizations performed on the extracted text. Our goal is to provide valuable insights into cancer-related content, ranging from article summarization and sentiment analysis to identifying common words, named entities, keywords, and even clustering articles based on their content.
 
+## Installation
+
+To use this project, make sure you have Python 3.8 installed on your system in addition to the following: 
+
+- pip install BeautifulSoup
+- pip install rake-nltk
+- pip install requests
+- pip install gensim
+- pip install TextBlob
+- pip install Counter
+- pip install re
+- pip install matplotlib
+- pip install WordCloud
+- pip install spacy
+- pip install KMeans
+- pip install numpy
+- pip install cosine_similarity
+
 
 ## Table of Contents
 
